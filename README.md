@@ -1,6 +1,8 @@
 # Spam_classifier
-Dataset that I have used about ham-spam dataset. In short this is a email dataset for email classification. 
-working steps in below:
+Dataset that I have used about ham-spam. In short this is a email dataset for email classification. 
+Our goal is to classify an email is ham or spam.
+
+**Working steps in below:**
 1. Import dataset
 2. some visualization
 3. convert email to word counter 
